@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap);
 
 body {
-    font-family: "Ubuntu";
      font-family: 'Ubuntu';
 }
 
@@ -10,8 +9,7 @@ body {
     background-image: url(./img/fon.png);
     background-repeat: no-repeat;
     width: 100vw;
-    height: 100vh;
-    font-family: "Ubuntu";    
+    height: 100vh;    
 }
 
 .header {
@@ -140,9 +138,6 @@ padding-right: 25px;
     justify-content: space-between;
 }
 
-.button {
-    border: none;
-}
 
 .facebook {
     width: 160px;
