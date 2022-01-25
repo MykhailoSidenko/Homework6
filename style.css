@@ -140,6 +140,9 @@ padding-right: 25px;
     justify-content: space-between;
 }
 
+.button {
+    border: none;
+
 .facebook {
     width: 160px;
     height: 48px;
