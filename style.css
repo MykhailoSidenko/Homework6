@@ -1,15 +1,12 @@
 @import url(https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap);
 
-body {
-     font-family: 'Ubuntu';
-}
-
 .background-container {
     background-size: cover;
     background-image: url(./img/fon.png);
     background-repeat: no-repeat;
     width: 100vw;
-    height: 100vh;    
+    height: 100vh;
+    font-family: 'Ubuntu';
 }
 
 .header {
@@ -138,12 +135,12 @@ padding-right: 25px;
     justify-content: space-between;
 }
 
-
 .facebook {
     width: 160px;
     height: 48px;
     background: #305DB8;
     border-radius: 3px;
+    border: none;
 }
 
 .facebook:hover{
@@ -178,6 +175,7 @@ padding-right: 25px;
     height: 48px;
     background: #DF4A32;
     border-radius: 3px;
+    border: none;
 }
 
 .google:hover {
@@ -264,6 +262,7 @@ h2::after{
     font-size: 14px;
     line-height: 1;
 }
+
 
 /* forms end */
 
