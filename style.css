@@ -1,13 +1,16 @@
 @import url(https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap);
 
+body {
+    font-family: "Ubuntu";
+}
+
 .background-container {
     background-size: cover;
     background-image: url(./img/fon.png);
     background-repeat: no-repeat;
     width: 100vw;
     height: 100vh;
-    font-family: "Ubuntu";
-    
+    font-family: "Ubuntu";    
 }
 
 .header {
